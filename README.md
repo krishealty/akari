@@ -11,7 +11,7 @@ Free and Open source manga and webtoon reading app.
 </div>
 
 ### Installation
-Download here: [Akari]()
+Download here: [Akari](https://github.com/krishealty/akari/raw/refs/heads/main/Akari_signed.apk)
 
 ### Main Features
 
