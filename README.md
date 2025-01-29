@@ -1,17 +1,17 @@
 <div align="center">
 
-<a href="">
+<a href="https://github.com/krishealty/akari/raw/refs/heads/main/Akari_signed.apk">
     <img src="src/Picsart_25-01-29_16-32-23-293.jpg" alt="Akari Logo" title="Akari"/>
 </a>
 
-# Akari
+# [Akari](https://github.com/krishealty/akari/raw/refs/heads/main/Akari_signed.apk)
 
 Free and Open source manga and webtoon reading app.
 
 </div>
 
 ### Installation
-Download here: [Akari](https://github.com/krishealty/akari/raw/refs/heads/main/Akari_signed.apk)
+Download here: [Akari for Android](https://github.com/krishealty/akari/raw/refs/heads/main/Akari_signed.apk)
 
 ### Main Features
 
@@ -34,6 +34,30 @@ Download here: [Akari](https://github.com/krishealty/akari/raw/refs/heads/main/A
 
 [![Sources count](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2FKotatsuApp%2Fkotatsu-parsers%2Frefs%2Fheads%2Fmaster%2F.github%2Fsummary.yaml&query=total&label=manga%20sources&color=%23E9321C)](https://github.com/KotatsuApp/kotatsu-parsers) ![License](https://img.shields.io/github/license/KotatsuApp/Kotatsu)
 
+### Screenshots
+
+<div align="center">
+
+<img src="src/Screenshot_2025-01-29-17-37-42-62_45d6d6f42e4d5f894654f552e01550f0.jpg"/>
+
+---
+
+<img src="src/Screenshot_2025-01-29-17-37-06-33_45d6d6f42e4d5f894654f552e01550f0.jpg"/>
+
+---
+
+<img src="src/Screenshot_2025-01-29-17-37-30-00_45d6d6f42e4d5f894654f552e01550f0.jpg"/>
+
+---
+
+<img src="src/Screenshot_2025-01-29-17-36-46-69_45d6d6f42e4d5f894654f552e01550f0.jpg"/>
+
+---
+
+<img src="src/Screenshot_2025-01-29-17-30-58-72_45d6d6f42e4d5f894654f552e01550f0.jpg"/>
+
+</div>
+
 ### License
 
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -49,5 +73,10 @@ You may copy, distribute and modify the software as long as you track changes/da
 <div align="left">
 
 The developers of this application do not have any affiliation with the content available in the app. It collects content from sources that are freely available through any web browser.
+
+</div>
+<div align="center">
+
+<img src="src/Picsart_25-01-29_16-33-13-919.jpg"/>
 
 </div>
